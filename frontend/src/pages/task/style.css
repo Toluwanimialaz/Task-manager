@@ -1,0 +1,67 @@
+#hero{
+    height:200px;
+    background-color: rgb(10, 10, 68);
+    color: whitesmoke;
+    text-align: center;
+}
+
+.card{
+    color:white;
+    background-color: rgb(10, 10, 68)!important;
+}
+
+.container{
+    max-width: 1280px;
+    margin-top: 500px;
+    padding: 2rem;
+    text-align: center;
+}
+
+
+
+
+button{
+    background-color:rgb(10, 10, 68);
+    margin-top:5px;
+}
+
+input{
+    width:100% !important;
+}
+
+.modal-header,.modal-footer{
+    background-color: rgb(10, 10, 68);
+    color:white;
+}
+
+th{
+    border: 1px solid white !important;
+    padding:10px;
+}
+
+td{
+    border: 1px solid white !important;
+    padding:10px;
+}
+
+
+.table{
+    width: 100% !important;
+    background-color: orange;
+    color:white;
+    border:2px solid orange;
+}
+
+.blue{
+    background-color:rgb(10, 10, 68);
+}
+
+tbody{
+    color:white;
+    width: 100% !important;
+    background-color:rgb(10, 10, 68);
+    color:white;
+    border:2px solid rgb(10, 10, 68);
+    margin:4px;
+}
+
